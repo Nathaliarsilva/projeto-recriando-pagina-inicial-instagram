@@ -2,4 +2,4 @@
 
 ### Recriando a página inicial do Instagram - Digital Innovation One
 
-Página de login do Instagram: nesse projeto, será abordado o conceito sobre CSS Flexbox e responsividade
+Desenvolvendo um projeto de “Cadastro de usuário e envio de e-mail de confirmação de cadastro como tarefa em background utilizando Node.js” ao qual praticará e aplicará os conceitos de processamento assíncrono de tarefas utilizando Node.js e Redis.
